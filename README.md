@@ -3,10 +3,12 @@
 # Introduction
 The protocol covers the following aspects (or modules) of m6A-seq data analysis :
 1. Quality control and alignment of m6A-seq data
-1. Differential RNA expression analysis with the input samples of m6A-seq data
 1. m6A site detection and characterization (peak calling)
 1. Differential m6A methylation analysis (differential analysis)
 1. m6A-driven functional network analysis
+   1. Differential expression analysis (with the input samples of m6A-seq data)
+   1. Differential  m6A methylation analysis
+   1. Joint analysis of differential expression and differential methylation
 
 
 
