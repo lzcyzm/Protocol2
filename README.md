@@ -1,6 +1,12 @@
 # A comprehenstive protocol for m6A-seq data analysis 
+## Author
+Jia Meng, PhD, Associate Professor
 
-# Introduction
+Xi'an Jiaotong-Liverpool University, Suzhou, China
+
+Email: jia.meng@xjtlu.edu.cn
+
+## Introduction
 The protocol covers the following aspects (or modules) of m6A-seq data analysis :
 1. Quality control and alignment of m6A-seq data
 1. m6A site detection and characterization (peak calling)
