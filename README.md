@@ -6,6 +6,8 @@ Xi'an Jiaotong-Liverpool University, Suzhou, China
 
 Email: jia.meng@xjtlu.edu.cn
 
+Reference: https://github.com/scottzijiezhang/m6A-seq_analysis_workflow/edit/master/README.md
+
 ## Introduction
 The protocol covers the following aspects (or modules) of m6A-seq data analysis :
 1. Quality control and alignment of m6A-seq data
