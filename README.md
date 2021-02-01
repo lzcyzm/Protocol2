@@ -1,10 +1,13 @@
-# Protocol: an updated protocol for epitranscriptome analysis from m6A-seq data.
+# An updated protocol for epitranscriptome analysis from m6A-seq data
 
+# Introduction
 The protocol covers the following aspects of m6A-seq data analysis:
-1. preprocessing of m6A-seq (quality control and alignment)
-2. m6A site detection (peak calling)
-3. differential m6A methylation analysis (differential analysis)
-4. m6A-driven functional network analysis
+1. Quality control and alignment of m6A-seq data
+1. m6A site detection and characterization (peak calling)
+1. Differential m6A methylation analysis (differential analysis)
+1. m6A-driven functional network analysis
+
+
 
 ```
 sftp -r che@osrfftp.uchicago.edu:/data_file_or_directory_name ./
