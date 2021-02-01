@@ -1,4 +1,4 @@
-# epitranscriptome analysis from m6A-seq data
+# A comprehenstive protocol for m6A-seq data analysis 
 
 # Introduction
 The protocol covers the following aspects (or modules) of m6A-seq data analysis :
