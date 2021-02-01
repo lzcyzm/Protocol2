@@ -1,4 +1,4 @@
-# An updated protocol for epitranscriptome analysis from m6A-seq data
+# epitranscriptome analysis from m6A-seq data
 
 # Introduction
 The protocol covers the following aspects (or modules) of m6A-seq data analysis :
